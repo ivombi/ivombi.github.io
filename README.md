@@ -1,6 +1,6 @@
  
  What an era where you can't go a day without hearing AI and Machine learning. Kubam Ivo is a cameroonian by birth. He was privileged to have been exposed to to this exciting and ever evolving field of AI and ML. Currently He is enrolled in Universite libre de bruxelles as a specialized master student in Data Science, Big Data. Before that, He had acquired knowledge in this field via certifications such Microsoft Data Scientist Associate, SAS Machine learning specialist and took up related courses in his two previous master programs. He has worked on some machine learning personal projects such the Titanic Dataset and House price dataset. He says learning never stops, so he wishes to collaborate with anyone or team doing exciting projects related to AI and ML. Also he is willing to share knowledge or provide help when needed. 
-If Ivo is not having his getting dirty with AI and ML, he is having fun playing soccer, partying out with friends, site seeing and swimming.  ![alt text](https://github.com/ivombi/ivombi/blob/main/avatar2.jpg)
+If Ivo is not having his getting dirty with AI and ML, he is having fun playing soccer, partying out with friends, site seeing and swimming.\newline  ![alt text](https://github.com/ivombi/ivombi/blob/main/avatar2.jpg)
 
 <!--
 **ivombi/ivombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
