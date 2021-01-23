@@ -1,10 +1,10 @@
-### Personal Info
+## Personal Info
  Kubam Ivo Mbi <br> 
  +32489500135 <br>
  Kerkstraat 30, Tienen Belgium <br>
  ivombi97@gmail.com <br>
 
-### Education
+## Education
  **Université Libre de Brussels, Belgium**
  <br>
  *Advance Master: Data Science, Big Data* <br>
