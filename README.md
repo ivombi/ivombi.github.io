@@ -23,7 +23,7 @@
 *2007 - 2010* <br>
 
 ## Work Experience 
-**. Microsoft Student Learn Ambassador** <br>
+**Microsoft Student Learn Ambassador** <br>
 **Microsoft** <br>
 *Aug 2020 – present* <br>
 **ACTIVITIES**
@@ -38,8 +38,8 @@
 *January 2016–September 2018*<br>
 
 **ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
-> -	Design, develop, maintain customized databases. <br><br><br>
-> -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers). 
+> -	Design, develop, maintain customized databases. 
+> -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers).
 > -	Data validation and preparation.
 > -	Assemble and maintain databases to empower operational and exploratory analysis. Build and analyze live dashboards and reports. 
 > -	Query databases to answer specific business questions. 
