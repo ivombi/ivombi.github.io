@@ -1,8 +1,8 @@
 ### Personal Info
- Kubam Ivo Mbi 
- +32489500135
- Kerkstraat 30, Tienen Belgium
- ivombi97@gmail.com
+ Kubam Ivo Mbi <br> 
+ +32489500135 <br>
+ Kerkstraat 30, Tienen Belgium <br>
+ ivombi97@gmail.com <br>
 
 
  
