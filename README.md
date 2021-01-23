@@ -30,9 +30,8 @@
  > - 	Event: Introduction to Git and GitHub (8th October 2020)
  > - 	Event: Azure Machine Learning (31st October 2020) <br>
  
-**INNOVATOR** <br>
-**W.H.O Africa**<br>
-*March 2020 - April 2020*<br>
+**INNOVATOR, W.H.O Africa** <br>
+*March 2020 - April 2020* <br>
 
 
  
