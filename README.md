@@ -23,7 +23,7 @@
 *2007 - 2010* <br>
 
 ## Work Experience 
-**Microsoft Student Learn Ambassador** <br>
+**. Microsoft Student Learn Ambassador** <br>
 **Microsoft** <br>
 *Aug 2020 – present* <br>
 **ACTIVITIES**
@@ -33,9 +33,9 @@
 **INNOVATOR, W.H.O Africa** <br>
 *March 2020 - April 2020* <br>
 
-**Founder &CEO, Data Analyst, Database Developer and Administrator**<br><br><br>
-**SEED Enterprises**
-*January 2016–September 2018*
+**Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
+**SEED Enterprises**<br>
+*January 2016–September 2018*<br>
 
 **ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
 > -	Design, develop, maintain customized databases. <br><br><br>
