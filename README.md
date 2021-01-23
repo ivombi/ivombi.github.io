@@ -23,9 +23,9 @@
 *2007 - 2010* <br>
 
 ## Work Experience 
-**Microsoft Student Learn Ambassador**
-**Microsoft**
-*Aug 2020 – present*
+**Microsoft Student Learn Ambassador** <br>
+**Microsoft** <br>
+*Aug 2020 – present* <br>
 **ACTIVITIES**
  > - 	Event: Introduction to Git and GitHub (8th October 2020)
  > - 	Event: Azure Machine Learning (31st October 2020)
