@@ -54,11 +54,20 @@
 
 **Health Data Analyst (Volunteer)**<br>
 **St Blaise Clinic, Bamenda-Cameroon** <br>
-*June 2016 –  December 2017*
+*June 2016 –  December 2017* <br>
 
 **Monitoring and Evaluation officer (Internship)**
 **Mbingo Baptist Hospital, Cameroon**<br>
 *August 2015*<br>
+
+**Business Data Analyst (Contract)**<br>
+**St Michael Academy of Science and Arts**<br>
+*September 2014 – June 2018*<br>
+
+**Science Teacher (Part Time)**<br>
+**St Michael Academy of Science and Arts.** <br>
+*September 2012 - June2014*<br>
+
 
 
  
