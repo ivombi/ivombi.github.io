@@ -5,9 +5,9 @@
  ivombi97@gmail.com <br>
 
 ### Education
- #### Université Libre de Brussels, Belgium
- Advance Master: Data Science, Big Data
- 2020 - 2021
+ #### Université Libre de Brussels, Belgium <br>
+ Advance Master: Data Science, Big Data <br>
+ 2020 - 2021 <br>
 
 
  
