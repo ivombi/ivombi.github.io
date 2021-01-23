@@ -9,6 +9,10 @@
  <br>
  *Advance Master: Data Science, Big Data* <br>
  *2020 - 2021* <br>
+ 
+**University of Hasselt, Belgium**
+*MSc. Statistics* 
+*2018 - 2021*
 
 
  
