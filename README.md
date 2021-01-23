@@ -10,9 +10,17 @@
  *Advance Master: Data Science, Big Data* <br>
  *2020 - 2021* <br>
  
-**University of Hasselt, Belgium**
-*MSc. Statistics* 
-*2018 - 2021*
+**University of Hasselt, Belgium** <br>
+*MSc. Statistics* <br>
+*2018 - 2021* <br>
+
+**Catholic University Cameroon** <br>
+*MSc. Health Economics Policy and Management* <br>
+*2014 - 2016* <br>
+
+**University of Buea, Cameroon** <br>
+*BSc. Biochemistry* <br>
+*2007 - 2010* <br>
 
 
  
