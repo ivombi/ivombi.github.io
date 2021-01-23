@@ -44,21 +44,21 @@
 > -	Assemble and maintain databases to empower operational and exploratory analysis. Build and analyze live dashboards and reports. 
 > -	Query databases to answer specific business questions. 
 
-**Health Data Analyst (Contract)**
-**Mary Health of Africa, Fontem-Cameroon**
-*Jan 2018 –April 2018*
+**Health Data Analyst (Contract)** <br>
+**Mary Health of Africa, Fontem-Cameroon** <br>
+*Jan 2018 –April 2018* <br>
 
-**Health Data Analyst (Contract)**
-**Prestige Health Centre, Mbouda-Cameroon**
-*August – October 2018*
+**Health Data Analyst (Contract)**<br>
+**Prestige Health Centre, Mbouda-Cameroon**<br>
+*August – October 2018*<br>
 
-**Health Data Analyst (Volunteer)**
-**St Blaise Clinic, Bamenda-Cameroon** 
+**Health Data Analyst (Volunteer)**<br>
+**St Blaise Clinic, Bamenda-Cameroon** <br>
 *June 2016 –  December 2017*
 
 **Monitoring and Evaluation officer (Internship)**
-**Mbingo Baptist Hospital, Cameroon**
-*August 2015*
+**Mbingo Baptist Hospital, Cameroon**<br>
+*August 2015*<br>
 
 
  
