@@ -38,7 +38,7 @@
 *January 2016–September 2018*<br>
 
 **ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
-> -	Design, develop, maintain customized databases. 
+> -	Design, develop, maintain customized relational databases. 
 > -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers).
 > -	Data validation and preparation.
 > -	Assemble and maintain databases to empower operational and exploratory analysis. Build and analyze live dashboards and reports. 
