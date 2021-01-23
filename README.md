@@ -29,6 +29,7 @@
 **ACTIVITIES**
  > - 	Event: Introduction to Git and GitHub (8th October 2020)
  > - 	Event: Azure Machine Learning (31st October 2020) <br>
+ 
 **Innovator**
 **W.H.O AFRICA**
 *March 2020 - April 2020*
