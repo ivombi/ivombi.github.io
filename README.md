@@ -8,7 +8,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
  Kubam Ivo Mbi <br> 
  +32489500135 <br>
  Kerkstraat 30, Tienen Belgium <br>
- ivombi97@gmail.com /ivombi@outlook.com <br>
+ ivombi97@gmail.com / ivombi@outlook.com <br>
  [LinkedIn](www.linkedin.com/in/kubamivombi) <br>
 
 ## Education
