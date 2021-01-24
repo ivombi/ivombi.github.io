@@ -72,7 +72,9 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *September 2014 – June 2018*<br>
 
 **Science Teacher (Part Time)**<br>
-**St Michael Academy of Science and Arts.** <br>
+**St Michael Academy of Science and Arts, Nkwen-Bamenda** <br>
+**Sacred Heart College, Mankon-Bamenda.** <br>
+**St Paul's College, Nkwen-Bamenda.** <br>
 *September 2012 - June2014*<br>
 
 
