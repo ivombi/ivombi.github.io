@@ -77,6 +77,16 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **St Paul's College, Nkwen-Bamenda.** <br>
 *September 2012 - June2014*<br>
 
+## Certifications & Awards
+**Databricks Academy**<br>
+*December 06, 2020*<br>
+> - Certificate of Completion of Introduction to Apache Spark’s Architecture<br>
+> -	Certificate of Completion of Fundamentals of SQL<br>
+*November 28, 2020*<br>
+> - Certificate of Completion of Introduction to Big Data <br>
+> -	Certificate of Completion of Unified Data Analytics<br>
+
+
 
 
  
