@@ -106,6 +106,11 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *Verification ID: BP368VGK22B1185K*<br>
 **Skills Acquired**: Access and Create Data Structures, Manage Data, Error Handling, Generate Reports and Output<br>
 
+## Personal Projects
+
+**Big Data Analytics:** [New York Taxi Analytics](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)<br>
+**Skills:** Python, Spark, Data wrangling, Visualization, SQL, Jupyter Notebook, Markdown, spark RDD, Hyper-parameter tuning, pandas, Numpy<br>
+
 
 
 
