@@ -87,6 +87,17 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 > - Certificate of Completion of Introduction to Big Data <br>
 > -	Certificate of Completion of Unified Data Analytics<br>
 
+**Microsoft Certified: Azure Data Scientist Associate**<br>
+*August 2020*<br>
+**Skills Acquired**: Set up an Azure Machine Learning workspace, Run experiments and train models, Optimize and manage models, Deploy and consume models<br>
+
+***SAS Certified Specialist: Machine Learning Using SAS Viya 3.4***<br>
+*April 2020*<br>
+*Verification ID: FHLS3SW12N14QCKD*<br>
+**Skills Acquired**: Preparing data and feature engineering, Creating supervised machine learning models, Assessing model performance, Deploying models into production<br>
+
+
+
 
 
 
