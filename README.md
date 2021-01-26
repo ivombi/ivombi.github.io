@@ -96,6 +96,20 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *Verification ID: FHLS3SW12N14QCKD*<br>
 **Skills Acquired**: Preparing data and feature engineering, Creating supervised machine learning models, Assessing model performance, Deploying models into production<br>
 
+**SAS Certified Statistical Business Analyst Using SAS 9: Regression and Modeling**<br>
+*February 2020*<br>
+*Verification ID: 7YNCPBEKKB1QQWC2*<br>
+**Skills Acquired**: Analysis of variance, Linear and logistic regression, Preparing inputs for predictive models, Measuring model performance<br>
+
+**SAS Certified Specialist: Base Programming Using SAS 9.4**<br>
+*November 2019*<br>
+*Verification ID: BP368VGK22B1185K*<br>
+**Skills Acquired**: Access and Create Data Structures, Manage Data, Error Handling, Generate Reports and Output<br>
+
+
+
+
+
 
 
 
