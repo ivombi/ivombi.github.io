@@ -126,6 +126,9 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 
 **Skills:** Vega & Vega-Lite, Altair package, R programming, Latex, Python, ipython Widgets, Matplotlib, seaborn<br>
 
+ **Time Series Forecast**
+ > - [NY Taxi Trip duration and Fare amount forecast](https://github.com/ivombi/NY-Taxi-Forecast.git)
+
 
 
 
