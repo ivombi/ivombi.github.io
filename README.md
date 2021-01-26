@@ -110,13 +110,15 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 
 **Big Data Analytics** 
 > - [New York Taxi Analytics](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)<br>
-**Data Analytics** 
-> - [US Air Travel Flight Delays](https://github.com/ivombi/Introduction-to-Programming/blob/master/big_assignment.py)
+> - [US Air Travel Flight Delays](https://github.com/ivombi/Introduction-to-Programming/blob/master/big_assignment.py)<br>
+
 **Skills:** Python, Spark, Data wrangling, Visualization, SQL, Jupyter Notebook, Markdown, spark RDD, Hyper-parameter tuning, pandas, Numpy<br>
 
 **Machine Learning** 
 > - [House Price Prediction](https://github.com/ivombi/House-price-prediction.git)<br>
 > - [Titanic passenger survival prediction](https://github.com/ivombi/Titanic-Machine-Learning-from-Disaster.git)<br>
+
+**Skills:** Machine learning, python, Azure ML, scikit learn, data wrangling, model deployment, Jupyter notebook, pandas, Numpy<br>
 
 
 
