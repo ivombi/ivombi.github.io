@@ -78,7 +78,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *September 2012 - June2014*<br>
 
 ## Certifications & Awards
-**Linkedin Learning**
+**Linkedin Learning**<br>
 *Feb 01, 2021*
 > - Learning Cloud Computing: Core Concepts
 
