@@ -78,6 +78,9 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *September 2012 - June2014*<br>
 
 ## Certifications & Awards
+*Feb 01, 2021*
+> - Learning Cloud Computing: Core Concepts
+
 **Databricks Academy**<br>
 *December 06, 2020*<br>
 > - Certificate of Completion of Introduction to Apache Spark’s Architecture<br>
