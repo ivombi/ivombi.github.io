@@ -135,6 +135,11 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
  > - [USA Shootings](https://github.com/ivombi/US-Shootings.git)
  
  **Skills:** Jupyter Widgets, Time series analysis, pmdarima
+ 
+ **Software Development**
+ > - [Inventory and Finance Management system](https://www.facebook.com/kubam.mbi/posts/1492845557439243)
+ 
+ **Skills:** Relational database design, database development and administration, PowerBi, sql, sql server, sql server reporting services, Microsoft access
 
 
 
