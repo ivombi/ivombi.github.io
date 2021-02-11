@@ -59,8 +59,8 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 > -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers).
 > -	Data validation and preparation.
 > -	Assemble and maintain databases to empower operational and exploratory analysis.
-> - Build and analyze live dashboards and reports. 
-> -	Query databases using SQL to answer specific business questions. 
+> - Build and analyze live dashboards and reports using PowerBi, MS excel, SSRS. 
+> -	Query databases using SQL to answer specific business questions . 
 
 **Health Data Analyst (Contract)** <br>
 **Mary Health of Africa, Fontem-Cameroon** <br>
