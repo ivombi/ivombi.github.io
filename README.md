@@ -30,8 +30,13 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *2007 - 2010* <br>
 
 ## Work Experience 
+**Data Engineer/ Data Scientist Intern**
+**DataMinded, Leuven-Belgium**
+*1/3/2021 – 28/5/2021*
+**ACTIVITIES**
+> -	Project: Automated Anomaly Detection
+
 **Microsoft Student Learn Ambassador** <br>
-**Microsoft** <br>
 *Aug 2020 – present* <br>
 **ACTIVITIES**
  > -  Access to  Microsoft AI and Machine learning resources and free Azure credits to experiment new ideas.
