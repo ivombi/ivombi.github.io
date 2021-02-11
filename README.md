@@ -30,9 +30,9 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *2007 - 2010* <br>
 
 ## Work Experience 
-**Data Engineer/ Data Scientist Intern**
-**DataMinded, Leuven-Belgium**
-*1/3/2021 – 28/5/2021*
+**Data Engineer/ Data Scientist Intern**<br>
+**DataMinded, Leuven-Belgium**<br>
+*1/3/2021 – 28/5/2021*<br>
 **ACTIVITIES**
 > -	Project: Automated Anomaly Detection
 
@@ -126,6 +126,12 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *November 2019*<br>
 *Verification ID: BP368VGK22B1185K*<br>
 **Skills Acquired**: Access and Create Data Structures, Manage Data, Error Handling, Generate Reports and Output<br>
+
+## Seminars, Events & Hackathons
+**Event: Project InnerEye**<br>
+*Medical Imaging Deep Learning library to train and deploy models on Azure Machine Learning and Azure Stack*<br>
+**Organizer: Microsoft**<br>
+*Date: 2/11/2021*<br>
 
 ## Personal Projects
 
