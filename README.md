@@ -36,7 +36,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **ACTIVITIES**
  > -  Access to  Microsoft AI and Machine learning resources and free Azure credits to experiment new ideas.
  > -  Collaborating with peers around the world to solve problems, share ideas, learn and get international exposure
- > -  Organisation of community	Events : Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
+ > -  Organising and hosting community	Events : Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
  
 **WHO AFRICA Hackathon** <br>
 *30TH March – 1ST April 2020* <br>
