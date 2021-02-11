@@ -133,6 +133,17 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **Organizer: Microsoft**<br>
 *Date: 2/11/2021*<br>
 
+**Event:** [Project Moab](https://microsoft.github.io/moab/), Project Bonsai
+*Autonomous Systems from Microsoft*
+**Organizer: Microsoft**
+*Date: 2/3/2021*
+
+**WHO AFRICA Hackathon** <br>
+*30TH March – 1ST April 2020* <br>
+**ACTIVITIES**
+> - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
+[Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
+
 ## Personal Projects
 
 **Big Data Analytics** 
