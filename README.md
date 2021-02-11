@@ -128,15 +128,15 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **Skills Acquired**: Access and Create Data Structures, Manage Data, Error Handling, Generate Reports and Output<br>
 
 ## Seminars, Events & Hackathons
-**Event: Project InnerEye**<br>
+**Event:** [Project InnerEye](https://aka.ms/InnerEyeRSNA)<br>
 *Medical Imaging Deep Learning library to train and deploy models on Azure Machine Learning and Azure Stack*<br>
 **Organizer: Microsoft**<br>
 *Date: 2/11/2021*<br>
 
-**Event:** [Project Moab](https://microsoft.github.io/moab/), Project Bonsai
-*Autonomous Systems from Microsoft*
-**Organizer: Microsoft**
-*Date: 2/3/2021*
+**Event:** [Project Moab](https://microsoft.github.io/moab/), [Project Bonsai](https://docs.microsoft.com/en-us/bonsai/)<br>
+*Autonomous Systems from Microsoft*<br>
+**Organizer: Microsoft**<br>
+*Date: 2/3/2021*<br>
 
 **WHO AFRICA Hackathon** <br>
 *30TH March – 1ST April 2020* <br>
