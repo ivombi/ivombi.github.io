@@ -90,8 +90,9 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 
 ## Certifications & Awards
 **Linkedin Learning**<br>
-*Feb 01, 2021*
+*February, 2021*
 > - Learning Cloud Computing: Core Concepts
+> - Data Science Foundations: Data Engineering
 
 **Databricks Academy**<br>
 *December 06, 2020*<br>
