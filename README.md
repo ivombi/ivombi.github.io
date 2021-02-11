@@ -41,7 +41,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *30TH March – 1ST April 2020* <br>
 **ACTIVITIES**
 > - 	Developing new technological and innovative ideas that could contribute to strengthening the current COVID-19 response.  
-> - 	Final App: Covid-19 Screening Tool. 
+> - 	Proposed solution: [Covid-19 Screening Tool](https://covid-19-119e0.web.app/). 
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
 **SEED Enterprises**<br>
