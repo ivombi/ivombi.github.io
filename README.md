@@ -46,7 +46,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 [Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
-**SEED Enterprises (Start-up)**<br>
+**SEED Inc. (Start-up): Data Management and Analytics**<br>
 *January 2016–September 2018*<br>
 **ACTIVITIES**
 > - Creating and implementing the company vision and mission
