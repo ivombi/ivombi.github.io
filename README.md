@@ -34,13 +34,14 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **Microsoft** <br>
 *Aug 2020 – present* <br>
 **ACTIVITIES**
- > - 	Event: Introduction to Git and GitHub (8th October 2020)
- > - 	Event: Azure Machine Learning (31st October 2020) <br>
+ > -  Access to  Microsoft AI and Machine learning resources and free Azure credits to experiment new ideas.
+ > -  Collaborating with peers around the world to solve problems, share ideas, learn and get international exposure
+ > -  Organisation of community	Events : Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
  
 **WHO AFRICA Hackathon** <br>
 *30TH March – 1ST April 2020* <br>
 **ACTIVITIES**
-> - 	Developing new technological and innovative ideas that could contribute to strengthening the current COVID-19 response.  
+> - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
 [Covid-19 Screening Tool](https://covid-19-119e0.web.app/) 
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
