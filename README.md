@@ -93,7 +93,7 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 **St Paul's College, Nkwen-Bamenda.** <br>
 *September 2012 - June2014*<br>
 
-## Certifications & Awards
+## Certifications, Training & Awards
 **Linkedin Learning**<br>
 *February, 2021*
 > - Learning Cloud Computing: Core Concepts
@@ -132,6 +132,10 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *Medical Imaging Deep Learning library to train and deploy models on Azure Machine Learning and Azure Stack*<br>
 **Organizer: Microsoft**<br>
 *Date: 2/11/2021*<br>
+
+**Event : Introduction to Lakehouse and SQL Analytics**
+**Organizer: Databricks**
+*9/2/2021*
 
 **Event:** [Project Moab](https://microsoft.github.io/moab/), [Project Bonsai](https://docs.microsoft.com/en-us/bonsai/)<br>
 *Autonomous Systems from Microsoft*<br>
