@@ -42,18 +42,24 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
 *30TH March – 1ST April 2020* <br>
 **ACTIVITIES**
 > - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
-[Covid-19 Screening Tool](https://covid-19-119e0.web.app/) 
+[Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
-**SEED Enterprises**<br>
+**SEED Enterprises (Start-up)**<br>
 *January 2016–September 2018*<br>
+**ACTIVITIES**
+> - Creating and implementing the company vision and mission
+> - Leading the development of the company’s short- and long-term strategy
+> - Maintaining awareness of the competitive market landscape, expansion opportunities, industry developments
+> - Setting strategic goals and making sure they are measurable and describable
 
 **ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
 > -	Design, develop, maintain customized relational databases. 
 > -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers).
 > -	Data validation and preparation.
-> -	Assemble and maintain databases to empower operational and exploratory analysis. Build and analyze live dashboards and reports. 
-> -	Query databases to answer specific business questions. 
+> -	Assemble and maintain databases to empower operational and exploratory analysis.
+> - Build and analyze live dashboards and reports. 
+> -	Query databases using SQL to answer specific business questions. 
 
 **Health Data Analyst (Contract)** <br>
 **Mary Health of Africa, Fontem-Cameroon** <br>
