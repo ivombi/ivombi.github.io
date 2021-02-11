@@ -37,8 +37,11 @@ In this era, you can't go a day without hearing, or using AI and Machine learnin
  > - 	Event: Introduction to Git and GitHub (8th October 2020)
  > - 	Event: Azure Machine Learning (31st October 2020) <br>
  
-**INNOVATOR, W.H.O Africa** <br>
-*March 2020 - April 2020* <br>
+**WHO AFRICA Hackathon** <br>
+*30TH March – 1ST April 2020* <br>
+**ACTIVITIES**
+> - 	Developing new technological and innovative ideas that could contribute to strengthening the current COVID-19 response.  
+> - 	Final App: Covid-19 Screening Tool. 
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
 **SEED Enterprises**<br>
