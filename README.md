@@ -42,31 +42,26 @@ I’m kubam Ivo Mbi, a Cameroonian by birth currently residing in Belgium with o
 **ACTIVITIES**
  > -  Access to  Microsoft AI and Machine learning resources and free Azure credits to experiment new ideas.
  > -  Collaborating with peers around the world to solve problems, share ideas, learn and get international exposure
- > -  Organising and hosting community	Events : Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
+ > -  Organize and host community Events of size 10- 30 attendees such as: Introduction to Git and GitHub (8th October 2020), Azure Machine Learning (31st October 2020) <br>
  > - 	Direct contact with Microsoft employees for guidance and exposure to trending ideas
- 
-**WHO AFRICA Hackathon** <br>
-*30TH March – 1ST April 2020* <br>
-**ACTIVITIES**
-> - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
-[Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
 
 **Founder &CEO, Data Analyst, Database Developer and Administrator**<br>
 **SEED Inc. (Start-up): Data Management and Analytics**<br>
 *January 2016–September 2018*<br>
 **ACTIVITIES**
-> - Creating and implementing the company vision and mission
-> - Leading the development of the company’s short- and long-term strategy
-> - Maintaining awareness of the competitive market landscape, expansion opportunities, industry developments
-> - Setting strategic goals and making sure they are measurable and describable
+> -	Created and implemented the company’s vision and mission
+> - Led a team of four to developed the company’s short- and long-term strategies
+> - Maintained awareness of the competitive market landscape, negotiated strategic deals to expand company’s opportunities
+> - Set up strategic goals and made sure they are measurable and describable
 
 **ACTIVITIES AS HEALTH/BUSINESS DATA ANALYST:** 
-> -	Design, develop, maintain customized relational databases. 
-> -	Training of personnel and close follow-up to ensure smooth transition from manual to electronic system. Coordinate project team (network, IT, database and software developers).
-> -	Data validation and preparation.
-> -	Assemble and maintain databases to empower operational and exploratory analysis.
-> - Build and analyze live dashboards and reports using PowerBi, MS excel, SSRS. 
-> -	Query databases using SQL to answer specific business questions . 
+> -	Designed, developed and maintained customized RDBMS to replaced paper based systems . 
+> -	Trained staff of sizes 4-10 with close follow-up to ensure smooth transition t to the new computerized system.
+> -	Coordinate project team of 4- 6 consisting of network, IT, database and software developers.
+> -	Collected data from relational database, Ensure Data validation and preparation for analysis and produced health and business reports for several decision makers.
+> - Assemble and maintain relational databases to ensure no down time. 
+> -	Built and analyze live interactive using PowerBi,  SSRS and other reporting tools for the different departments. 
+> - Query the Relational databases using SQL to answer specific business questions
 
 **Health Data Analyst (Contract)** <br>
 **Mary Health of Africa, Fontem-Cameroon** <br>
@@ -149,7 +144,7 @@ I’m kubam Ivo Mbi, a Cameroonian by birth currently residing in Belgium with o
 > - Brainstorming on the	Development of new technological and innovative ideas that could contribute to strengthening the current COVID-19 response in the Africa continent.  
 [Covid-19 Screening Tool](https://covid-19-119e0.web.app/)
 
-## Personal Projects
+## Hard Skills, Technologies and Personal Projects
 
 **Big Data Analytics** 
 > - [New York Taxi Analytics](https://github.com/MSBGDA/INFO-H-600-Project-Group-AH.git)<br>
@@ -178,7 +173,14 @@ I’m kubam Ivo Mbi, a Cameroonian by birth currently residing in Belgium with o
  **Software Development**
  > - [Inventory and Finance Management system](https://www.facebook.com/kubam.mbi/posts/1492845557439243)
  
- **Skills:** Relational database design, database development and administration, PowerBi, sql, sql server, sql server reporting services, Microsoft access
+ **Skills:** Hadoop, Apache Spark, MongoDB, Map/Reduce, MySQL, Azure SQL, Git and GitHub, SAS, R, MatLab, Data crunching, NoSQL, BigData, distributed Computing, Azure Cloud
+ **Soft Skills:** 
+ > - Strong communication and presentation skills 
+ > - Creative, innovative, and strategic thinker
+ > - Ability to simultaneously coordinate and track multiple deliverables, tasks and dependencies across multiple stakeholders / business areas 
+ > - Leader and team player
+ > - Proactive attitude, customer oriented and results. 
+ 
 
 
 
