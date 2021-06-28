@@ -35,7 +35,7 @@ I’m kubam Ivo Mbi, a Cameroonian by birth currently residing in Belgium with o
 **DataMinded, Leuven-Belgium**<br>
 *1/3/2021 – 28/5/2021*<br>
 **ACTIVITIES**
-> -	Project:: Automated Anomaly Detection (AOD) tool
+> -	Project: Automated Anomaly Detection (AOD) tool
 > -	Train, test and evaluated 4 outlier detection models against 6 datasets
 > -	Best model (COPOD) was then used to detect outliers on a real weather dataset from Brazil.
 > -	Recommendations for the AOD tool  
