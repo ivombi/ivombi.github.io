@@ -94,6 +94,14 @@ I’m kubam Ivo Mbi, a Cameroonian by birth currently residing in Belgium with o
 *September 2012 - June2014*<br>
 
 ## Certifications, Training & Awards
+**Microsoft Certified: Data Analyst Associate**<br>
+*June 2021*<br>
+**Skills Acquired**: Prepare the data, Model the data, Visualize the data, Analyze the data, Deploy and maintain deliverables using PowerBi<br>
+
+**Microsoft Azure AI Fundamental**<br>
+*April 2021*<br>
+**Skills Acquired**: Describe Artificial Intelligence workloads and considerations, fundamental principles of machine learning on Azure, features of computer vision workloads on Azure,  features of Natural Language Processing (NLP) workloads on Azure and features of conversational AI workloads on Azure<br>
+
 **Linkedin Learning**<br>
 *February, 2021*
 > - Learning Cloud Computing: Core Concepts
