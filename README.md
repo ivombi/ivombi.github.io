@@ -1,13 +1,15 @@
 ## About Me
-Ivo Mbi is a Cameroonian by birth and currently residing in Belgium with over 5+ years of working experience in data related fields such as database designer, developer and administrator and data analyst, helping companies store, manage, extract and make sense out their data. His successes have been backed by a rich and diverse educational background with degrees in data science, statistics, Health economics and Biochemistry. Not leaving out key certifications such as Microsoft Certified Azure Data Scientist Associate and SAS Certified Specialist in Machine Learning Using SAS Viya 3.4 just to name a few. He is very passionate about helping business make data driven decisions. While looking forward to become a chief data officer in the future, he intends to pick up positions such as Data Engineer, Machine Learning Engineer, Data Scientist, Data Analyst. Lately , reading books and doing writeups excites him and makes him a better person.![alt text](https://github.com/ivombi/ivombi/blob/main/avatar2.jpg)
+Ivo Kubam envisions a future where every zealous youth will benefit from a deserved lucrative opportunity in life. Aware that he might not live to see such a future, he is contributing to it today by unlocking lucrative AI and Data opportunities for both Tech founders and non-tech professionals through his company, Graffiland.
+<br>
+A Cameroonian residing in Belgium, Ivo's journey in data began in 2012 when he designed and developed tailored data management systems for hospitals and small businesses in his hometown of Bamenda, Cameroon. He has since acquired both academic and real-world experience, earning master's degrees from world-class universities and providing Data Science consultancy services to top companies such as Brussels Airport and Pfizer in Belgium.
+<br>
+On a lighter note, Ivo enjoys connecting, sharing knowledge, and exchanging ideas. He also has a passion for outdoor activities, sports, and loves traveling..
 
 
 ## Personal Info
- Kubam Ivo Mbi <br> 
- +32489500135 <br>
- Kerkstraat 30, Tienen Belgium <br>
- ivombi97@gmail.com / ivombi@outlook.com <br>
- [LinkedIn](www.linkedin.com/in/kubamivombi) <br>
+- Kubam Ivo Mbi 
+- ivo.kubam@graffiland.com
+- [LinkedIn](www.linkedin.com/in/kubamivombi)
 
 ## Education
  **Université Libre de Brussels, Belgium**
